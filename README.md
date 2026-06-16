@@ -28,7 +28,7 @@ This analytics workflow and retention strategy was successfully developed and pr
 **Consulting and Analytics Club, IIT Guwahati**. 
 
 ### Verified Project Completion Certificate
-![IIT Guwahati Summer Project Certificate](assets/certificate.png)
+![IIT Guwahati Summer Project Certificate](assets/certificate.jpg)
 
 ---
 *Developed as a high-standard academic and professional portfolio project.*
